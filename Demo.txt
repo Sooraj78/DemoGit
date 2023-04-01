@@ -1,1 +1,2 @@
-My Demo Git First Project
+My Demo Git First Project 
+Hi Project On School Details
